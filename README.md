@@ -1,5 +1,5 @@
 # Test-program-for-arduino
-[Programme]
+[Programmes]
 
-1-Test program
+1-Test program 
 2-MCP23017 test
